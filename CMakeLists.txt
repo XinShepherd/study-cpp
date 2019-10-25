@@ -21,4 +21,5 @@ add_executable(exercise-3-5 exercises-3/exercise-3-5.cpp)
 # exercises-4
 add_executable(main-4 exercises-4/main.cpp exercises-4/median.cpp exercises-4/median.h exercises-4/Student_info.cpp exercises-4/Student_info.h exercises-4/grade.cpp exercises-4/grade.h)
 add_executable(exercise-4-2 exercises-4/exercise-4-2/exercise-4-2.cpp)
-add_executable(exercise-4-5 exercises-4/exersice-4-5/exercise-4-5.cpp)
+add_executable(exercise-4-5 exercises-4/exercise-4-5/exercise-4-5.cpp)
+add_executable(exercise-4-7 exercises-4/exercise-4-7/exercise-4-7.cpp)
