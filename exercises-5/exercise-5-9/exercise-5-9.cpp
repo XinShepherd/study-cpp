@@ -11,9 +11,9 @@ using std::endl;        using std::string;
 using std::isupper;     using std::islower;
 using std::list;
 
-bool is_all_lower(string &word) {
-    for (string::size_type i = 0; i < word.size(); ++i) {
-        if (isupper(word[i])) {
+bool is_all_lower(const string &word) {
+    for (char i : word) {
+        if (isupper(i)) {
             return false;
         }
     }
