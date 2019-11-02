@@ -29,3 +29,5 @@ add_executable(exercise-5-2 exercises-5/exercise-5-2/exercise-5-2.cpp exercises-
 add_executable(exercise-5-9 exercises-5/exercise-5-9/exercise-5-9.cpp)
 add_executable(exercise-5-10 exercises-5/exercise-5-10/exercise-5-10.cpp)
 add_executable(find_urls exercises-6/find_urls.cpp)
+add_executable(exercise-6-3 exercises-6/exercise-6-3/exercise-6-3.cpp)
+add_executable(exercise-6-4 exercises-6/exercise-6-4/exercise-6-4.cpp)
