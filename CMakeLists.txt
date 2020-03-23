@@ -34,5 +34,8 @@ add_executable(exercise-6-4 exercises-6/exercise-6-4/exercise-6-4.cpp)
 # exercises-7
 add_executable(main-7 exercises-7/main.cpp)
 
-# exercises-7
+# exercises-9
 add_executable(main-9 exercises-9/main.cpp exercises-9/Student_info.cpp exercises-9/Student_info.h exercises-4/grade.cpp exercises-4/grade.h exercises-4/median.cpp exercises-4/median.h)
+
+# exercises-10
+add_executable(main-10 exercises-10/main.cpp)
