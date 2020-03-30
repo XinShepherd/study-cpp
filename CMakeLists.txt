@@ -38,4 +38,5 @@ add_executable(main-7 exercises-7/main.cpp)
 add_executable(main-9 exercises-9/main.cpp exercises-9/Student_info.cpp exercises-9/Student_info.h exercises-4/grade.cpp exercises-4/grade.h exercises-4/median.cpp exercises-4/median.h)
 
 # exercises-10
-add_executable(main-10 exercises-10/main.cpp)
+add_executable(main-10 exercises-10/main.cpp exercises-11/Vec.cpp exercises-11/Vec.h exercises-11/main.cpp)
+add_executable(main-11 exercises-11/Vec.cpp exercises-11/Vec.h exercises-11/main.cpp)
