@@ -40,3 +40,4 @@ add_executable(main-9 exercises-9/main.cpp exercises-9/Student_info.cpp exercise
 # exercises-10
 add_executable(main-10 exercises-10/main.cpp exercises-11/Vec.cpp exercises-11/Vec.h exercises-11/main.cpp)
 add_executable(main-11 exercises-11/Vec.cpp exercises-11/Vec.h exercises-11/main.cpp)
+add_executable(main-12 exercises-11/Vec.cpp exercises-11/Vec.h exercises-11/main.cpp exercises-12/Str.cpp exercises-12/Str.h)
