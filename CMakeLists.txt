@@ -4,6 +4,7 @@ project(study_cpp)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(study_cpp main.cpp)
+add_executable(solution solution.cpp)
 add_executable(exercises-0-3 exercises-0/exercise-0-3.cpp)
 add_executable(hello_body exercises-0/main.cpp)
 add_executable(hello_body2 exercises-1/main.cpp)
@@ -40,4 +41,6 @@ add_executable(main-9 exercises-9/main.cpp exercises-9/Student_info.cpp exercise
 # exercises-10
 add_executable(main-10 exercises-10/main.cpp exercises-11/Vec.cpp exercises-11/Vec.h exercises-11/main.cpp)
 add_executable(main-11 exercises-11/Vec.cpp exercises-11/Vec.h exercises-11/main.cpp)
-add_executable(main-12 exercises-11/Vec.cpp exercises-11/Vec.h exercises-11/main.cpp exercises-12/Str.cpp exercises-12/Str.h)
+add_executable(main-12 exercises-11/Vec.cpp exercises-11/Vec.h exercises-11/main.cpp exercises-12/Str.cpp exercises-12/Str.h exercises-13/Core.cpp exercises-13/Core.h)
+add_executable(main-13 exercises-13/Core.cpp exercises-13/Core.h exercises-4/grade.h)
+add_executable(climbStairs leetcode/ClimbStairs.cpp)
